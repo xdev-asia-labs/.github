@@ -1,7 +1,7 @@
 
 # xdev-asia-labs
 
-![xdev.asia Hands-On Labs Banner](assets/banner.png)
+![xdev.asia Hands-On Labs Banner](../assets/banner.png)
 
 A collection of hands-on labs that power the **[xdev.asia](https://xdev.asia)** blog — a playground for experimenting with system architecture, AI agents, internal developer platforms, automation, and intelligent operating models.
 
